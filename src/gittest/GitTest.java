@@ -20,8 +20,9 @@ public class GitTest {
         }
         // TODO code application logic here
         int b = 1234;
-        while(b>1){
-        --b;
+        // chacha
+        while (b > 1) {
+            --b;
         }
     }
 }
