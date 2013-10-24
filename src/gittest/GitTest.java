@@ -15,6 +15,9 @@ public class GitTest {
      */
     public static void main(String[] args) {
         int neco = 5;
+        if (neco > 5) {
+            System.out.println();
+        }
         // TODO code application logic here
     }
 }
