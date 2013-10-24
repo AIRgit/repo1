@@ -15,5 +15,9 @@ public class GitTest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int b = 1234;
+        while(b>1){
+        --b;
+        }
     }
 }
